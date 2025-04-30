@@ -28,7 +28,7 @@
 
 - Click on this below image for playing video
 
-[![IMAGE_ALT](https://img.youtube.com/vi/LB1D9HrvEZo/0.jpg)](https://youtu.be/LB1D9HrvEZo)
+[![IMAGE_ALT](https://img.youtube.com/vi/tlr1opGsmVU/0.jpg)](https://youtu.be/tlr1opGsmVU)
 
 ## Problem Statement
 - Nowadays students face problem due to `low attention span` which is less than a gold fish.
