@@ -15,7 +15,7 @@
   <a href="https://huggingface.co/">
     <img src="https://img.shields.io/badge/Model-HuggingFace-%2334D058.svg">
   </a>
-  <a href="https://github.com/PushpenderIndia/StoryScape">
+  <a href="https://github.com/spignelon/StoryScape_Agentforce">
     <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-brightgreen.svg">
   </a>
 </p>
@@ -173,7 +173,7 @@ sudo service redis-server status
 pip3 install virtualenv
 
 # Clone Project
-git clone https://github.com/PushpenderIndia/StoryScape.git
+git clone https://github.com/spignelon/StoryScape_Agentforce.git
 
 # Navigate to folder
 cd StoryScape
